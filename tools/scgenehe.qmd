@@ -1,7 +1,7 @@
 ---
 title: "**scGeneHE**: single cell Gene Expression Heritability Estimation"
 subtitle: "[{{< fa brands github >}} GitHub](https://github.com/AmariutaLab/scGeneHE)&ensp;&emsp;[{{< fa solid book >}} Paper](https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1)"
-description: "**Amariuta, T.**, Siewert-Rocks, K. & Price, A.L. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. *bioRxiv* (2025)."
+description: "Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., **Amariuta, T**. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. *bioRxiv* (2025)."
 date: 02/28/2025
 image: /img/tools/scGeneHE_fig1.png
 ---
