@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+### Estimating the cis-heritability of gene expression from single cell RNA-sequencing
+
+Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., **Amariuta, T**. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. *bioRxiv* (2025). [https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1]
+
 ### Detecting disease-critical genes in underrepresented populations
 
 Akamatsu, K., Golzari, S., **Amariuta, T**. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. *medRxiv* (2024). [https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1](https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1). [https://doi.org/10.1101/2024.09.25.24314410](https://doi.org/10.1101/2024.09.25.24314410).
