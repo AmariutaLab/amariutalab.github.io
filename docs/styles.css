@@ -1,4 +1,5 @@
 /* css styles */
+
 .quarto-title-banner {
   background: linear-gradient(to bottom, orange, #87CEEB);
   color: white;
@@ -7,8 +8,6 @@
   display: inline-block;
   width: 100%;
 }
-
-
 
 .quarto-title-banner h1 {
   font-size: 1em;
