@@ -21,41 +21,6 @@
     "text": "Acknowledgements\nWe thank Alona Korzhakova, a former Computational Data Science Researcher from our lab, and Kathryn Weinand from the Raychaudhuri Lab for generating genome-wide base pair resolution IMPACT tracks. We thank Alona for integrating them with the UCSC genome browser, such that these data now have full and direct access to the genomics community.\n\nWe would love to hear your feedback!\nFor questions or comments, please contact us at tamariutabartell [at] ucsd [dot] edu."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Before starting her lab in San Diego, Tiffany earned a B.S. in Biological Engineering at MIT and went on to conduct graduate research with Dr. Soumya Raychaudhuri as part of the Bioinformatics and Integrative Genomics PhD program at Harvard Medical School, where she studied the genetic susceptibility of autoimmune diseases and other polygenic diseases. During graduate school, Tiffany developed machine learning methods to predict the functionality of regulatory variants, which had applications to transcription factor binding prediction, eQTL mapping, heritability enrichment analysis, and trans-ancestry portability of polygenic risk scores. She pursued post-doctoral research studying tissue-mediated genetic effects with Dr. Alkes Price at the Harvard School of Public Health. Now, Tiffany is an Assistant Professor in the Halıcıoğlu Data Science Institute and the Department of Medicine at the University of California San Diego. In her free time, Tiffany enjoys hiking, tennis, beach volleyball, and spending time with her dog, Dax."
-  },
-  {
-    "objectID": "about.html#tiffany-amariuta-ph.d.",
-    "href": "about.html#tiffany-amariuta-ph.d.",
-    "title": "About",
-    "section": "",
-    "text": "Before starting her lab in San Diego, Tiffany earned a B.S. in Biological Engineering at MIT and went on to conduct graduate research with Dr. Soumya Raychaudhuri as part of the Bioinformatics and Integrative Genomics PhD program at Harvard Medical School, where she studied the genetic susceptibility of autoimmune diseases and other polygenic diseases. During graduate school, Tiffany developed machine learning methods to predict the functionality of regulatory variants, which had applications to transcription factor binding prediction, eQTL mapping, heritability enrichment analysis, and trans-ancestry portability of polygenic risk scores. She pursued post-doctoral research studying tissue-mediated genetic effects with Dr. Alkes Price at the Harvard School of Public Health. Now, Tiffany is an Assistant Professor in the Halıcıoğlu Data Science Institute and the Department of Medicine at the University of California San Diego. In her free time, Tiffany enjoys hiking, tennis, beach volleyball, and spending time with her dog, Dax."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "The Amariuta Lab",
-    "section": "",
-    "text": "The Halıcıoğlu Data Science InstituteThe Department of MedicineUniversity of California, San Diego\nWe are a statistical genetics lab focusing on developing methods to study complex traits and polygenic diseases in global populations. We are specifically interested in fine-mapping disease genes and their cell types of action, with the goal of finding targets for gene-based therapeutics.\n\n\nResearch Interests\nCurrently, health-related discoveries from the field of human genetics disproportionately benefit individuals of European descent, due to the longstanding Eurocentric bias in data collection and study design. I am particularly motivated to work with ancestrally diverse patient cohorts and develop statistical genetics methods that can be applied to data from multiple populations; most methods have only been applied to European populations and cannot be applied to more than one population at a time.\nI am generally interested in studying the complex nature of the genetic susceptibility of human disease and phenotypes. The precise biological mechanisms through which genetic variation is mediated to impact complex traits and diseases remain largely uncertain. I am interested in studying intermediate phenotypes such as gene and protein expression, while also understanding how environmental factors can modulate genetic risk. My previous work has approached these questions from a population genetics perspective, leveraging large biobank data, such as genome-wide association studies (GWAS) from the UK Biobank and Biobank Japan, consortium-level functional data, such as from ENCODE, and gene expression studies, such as from GTEx.\n– Tiffany Amariuta, Principal Investigator"
-  },
-  {
-    "objectID": "github.html",
-    "href": "github.html",
-    "title": "Methods Development",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Method Name\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIMPACT (Transcription Factor Binding and Cell-Type-Specific Enhancer Prediction)\n\n\n GitHub   Paper   UCSC Genome Browser\n\n\nAmariuta, T., Luo, Y., Gazal, S., Davenport, E.E., van de Geijn, B., Ishigaki, K., Westra, H.J., Teslovich, N., Okada, Y., Yamamoto, K. and Price, A.L., 2019. IMPACT: genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. The American Journal of Human Genetics (2019).\n\n\n\nMay 2, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT 707 for Trans-Ancestry PRS\n\n\n GitHub   Paper\n\n\nAmariuta, T., Ishigaki, K., Sugishita, H. et al. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nat Genet 52, 1346–1354 (2020).\n\n\n\nNovember 30, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTCSC: Tissue Co-regulation SCore Regression (Inferring Causal Cell Types in Disease)\n\n\n GitHub   Paper\n\n\nAmariuta, T., Siewert-Rocks, K. & Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. Nat Genet 1503–1511 (2023).\n\n\n\nAugust 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMAGEPRO: Multi-Ancestry Gene Expression Prediction Regularized Optimization\n\n\n GitHub   Paper\n\n\nAkamatsu, K., Golzari, S., Amariuta, T. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. medRxiv (2024).\n\n\n\nSeptember 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nscGeneHE: single cell Gene Expression Heritability Estimation\n\n\n GitHub   Paper\n\n\nXu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., Amariuta, T. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. bioRxiv (2025).\n\n\n\nFebruary 28, 2025\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "While you can find a full list of our publications on PubMed (https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/), this page has selected publications for the lab.\n\nEstimating the cis-heritability of gene expression from single cell RNA-sequencing\nXu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., Amariuta, T. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. bioRxiv (2025). https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. https://doi.org/10.1101/2025.02.24.639892.\n\n\nDetecting disease-critical genes in underrepresented populations\nAkamatsu, K., Golzari, S., Amariuta, T. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. medRxiv (2024). https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1. https://doi.org/10.1101/2024.09.25.24314410.\n\n\nInferring causal cell types in diseases and complex traits\nAmariuta T., Siewert-Rocks, K., Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. Nat. Genet. 55, 1503-1511 (2023).\n\n\nTrans-ancestry portability of genetic association data\nAmariuta, T.*, Ishigaki, K.*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nat. Genet. 52, 1346–1354 (2020). *These authors contributed equally to this work\n\n\nCell-type-specific enhancer predictions\nAmariuta, T., Luo, Y., Gazal, S., Davenport, E. E., van de Geijn, B., Ishigaki, K., Westra, H.-J., Teslovich, N., Okada, Y., Yamamoto, K., …, Price, A. L., Raychaudhuri, S. IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. Am. J. Hum. Genet. 104, 879–895 (2019).\n\n\n\n\n\n\nNote\n\n\n\nYou can also interact with IMPACT in the University of California, Santa Cruz (UCSC) Genome Browser!\nNavigate over to the Genome Browser page of our lab website for more information.\n\n\n\n\nReview article on advances in rheumatoid arthritis genetics\nAmariuta, T., Luo, Y., Knevel, R., Okada, Y., Raychaudhuri, S. Advances in genetics toward identifying and profiling pathogenic cell states of rheumatoid arthritis. Immunol. Rev. (2019)."
-  },
-  {
     "objectID": "people.html",
     "href": "people.html",
     "title": "Meet the Team",
@@ -77,18 +42,18 @@
     "text": "Michelle Franc Ragsac, Ph.D.\n\n\n\n\n\n\n\nPostdoctoral Scholar\nMichelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biology, where she specialized in studying genomic regulation during embryonic development with large-scale enhancer screens and single-cell RNA-sequencing. After developing large-scale genomics pipelines in the biotechnology industry, she decided to return to academia for a postdoc. She is passionate about exploring the genetic foundations of developmental and childhood diseases. In her free time, she enjoys discovering new restaurants in San Diego and spending time with her Shiba Inu, Yuuki."
   },
   {
-    "objectID": "people.html#ziqi-xu",
-    "href": "people.html#ziqi-xu",
-    "title": "Meet the Team",
-    "section": "Ziqi Xu",
-    "text": "Ziqi Xu\n\n\n\n\n\n\n\nBioinformatics & Systems Biology Ph.D. Student\nZiqi is a second-year Ph.D. Student in the Bioinformatics and Systems Biology (BISB) interdisciplinary graduate program. She is interested in developing computational and statistical methods to understand the genetic contributions to various diseases. Her current project focuses on estimating heritability from single-cell data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-sequencing data. Ziqi enjoys spending her spare time in dog parks and zoos."
-  },
-  {
     "objectID": "people.html#krishna-brunton",
     "href": "people.html#krishna-brunton",
     "title": "Meet the Team",
     "section": "Krishna Brunton",
     "text": "Krishna Brunton\n\n\n\n\n\n\n\nBioengineering Ph.D. Candidate\nKrishna is a third-year Ph.D. Candidate from the Department of Bioengineering. He graduated from UC Santa Barbara in 2021, where he majored in Biochemistry-Molecular Biology. His current research project focuses on developing methods to identify genome-wide contributions to gene expression regulation, such as evaluating trans-acting expression quantitative trait loci (trans-eQTLs). Krishna’s hobbies include checking out new coffee shops and hiking."
+  },
+  {
+    "objectID": "people.html#ziqi-xu",
+    "href": "people.html#ziqi-xu",
+    "title": "Meet the Team",
+    "section": "Ziqi Xu",
+    "text": "Ziqi Xu\n\n\n\n\n\n\n\nBioinformatics & Systems Biology Ph.D. Student\nZiqi is a second-year Ph.D. Student in the Bioinformatics and Systems Biology (BISB) interdisciplinary graduate program. She is interested in developing computational and statistical methods to understand the genetic contributions to various diseases. Her current project focuses on estimating heritability from single-cell data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-sequencing data. Ziqi enjoys spending her spare time in dog parks and zoos."
   },
   {
     "objectID": "people.html#ishaan-gupta",
@@ -105,88 +70,11 @@
     "text": "Xiaoyu Gui\n\n\n\n\n\n\n\nData Science Ph.D. Student\nXiaoyu is a first-year Ph.D. Student from the Data Science graduate program. She previously joined the lab as a third-year undergraduate student, where she finished her major in Data Science with two minors in General Biology and Mathematics. Her interest lies in leveraging data science techniques to help minimize the gap in health-related discoveries among populations with different ancestry. In her free time, she enjoys taking photos around the city."
   },
   {
-    "objectID": "people.html#stephen-golzari",
-    "href": "people.html#stephen-golzari",
-    "title": "Meet the Team",
-    "section": "Stephen Golzari",
-    "text": "Stephen Golzari\n\n\n\n\n\n\n\nUndergraduate Researcher\nStephen is a third-year undergraduate researcher majoring in Bioengineering/Bioinformatics. He is currently working on incorporating fine-mapping methods to improve multi-ancestry gene expression prediction models. In his free time, Stephen enjoys composing music and playing chess."
-  },
-  {
-    "objectID": "people.html#ieva-sereiva",
-    "href": "people.html#ieva-sereiva",
-    "title": "Meet the Team",
-    "section": "Ieva Sereiva",
-    "text": "Ieva Sereiva\n\n\n\n\n\n\n\nUndergraduate Researcher\nIeva is a third-year undergraduate student studying bioinformatics at UCSD. She is currently working on the development of a pangenome browser, which is aimied at providing a user-friendly interface for visualising and analyzing pangenomic data. In her free time, Ieva likes to read and explore the city with friends."
-  },
-  {
     "objectID": "people.html#nan-huang",
     "href": "people.html#nan-huang",
     "title": "Meet the Team",
     "section": "Nan Huang",
     "text": "Nan Huang\n\n\n\n\n\n\n\nData Science Ph.D. Student\nNan is a first-year Ph.D. Student from the Data Science graduate program. Like Xiaoyu, she previously joined the lab as a third-year undergraduate student with a double major in Data Science and Math-Economics. She is interested in understanding the genetic basis of childhood asthma, aiming to develop clinical risk models that integrate genetic, transcriptomic, and non-genetic risk factors to enhance early asthma detection and personalized treatment strategies. Outside the lab, Nan enjoys exploring new restaurants, cooking recipes, and different types of music."
-  },
-  {
-    "objectID": "people.html#join-us",
-    "href": "people.html#join-us",
-    "title": "Meet the Team",
-    "section": "Join Us!!",
-    "text": "Join Us!!\n\n\n\nWe are Hiring!!\n We are looking to recruit talented graduate students and postdoctoral researchers!\nApply Now!"
-  },
-  {
-    "objectID": "people.html#staff-researchers",
-    "href": "people.html#staff-researchers",
-    "title": "Meet the Team",
-    "section": "Staff Researchers",
-    "text": "Staff Researchers\n\nAlona Khorzhakova, Computational Data Science Researcher (Summer 2023 - Winter 2024)"
-  },
-  {
-    "objectID": "people.html#phd-rotation-students",
-    "href": "people.html#phd-rotation-students",
-    "title": "Meet the Team",
-    "section": "PhD Rotation Students",
-    "text": "PhD Rotation Students\n\nBenjamin Pham, Data Science (Spring 2023, ongoing collaborations)\nGiorgia Nicolaou, Data Science (Spring 2023)\nAnna Qi, Bioinformatics and Systems Biology (Summer 2023)\nHyrum Eddington, Bioinformatics and Systems Biology (Winter 2024)\nNicholas Chan, Bioinformatics and Systems Biology (Spring 2024)"
-  },
-  {
-    "objectID": "people.html#undergraduate-researchers",
-    "href": "people.html#undergraduate-researchers",
-    "title": "Meet the Team",
-    "section": "Undergraduate Researchers",
-    "text": "Undergraduate Researchers\n\nKai Akamatsu, Bioinformatics (Fall 2022 - Summer 2024)\nStephen Golzari, Bioinformatics\nIeva Sereiva, Bioinformatics\nCiby Lin, Chemistry (Winter 2023 - Spring 2023)\nSivani Vedula, Bioinformatics (Winter 2023 - Winter 2024)\nSujana Sreenivasan, Bioinformatics (Winter 2023 - Winter 2024)\nPaulina Montserrath, ENLACE (Summer 2023)\nNicole Gonzalez, ENLACE (Summer 2023) ​\nBrandon Fuller (DBMI and STARS summer program 2024)\nPablo Correa Bocardo, ENLACE (Summer 2024)\nKeya Patel, ENLACE (Summer 2024)\nFrida Valeria Rivera Lopez, ENLACE (Summer 2024)\nMiranda Cuervo, ENLACE (Summer 2024)"
-  },
-  {
-    "objectID": "people.html#high-school-researchers",
-    "href": "people.html#high-school-researchers",
-    "title": "Meet the Team",
-    "section": "High School Researchers",
-    "text": "High School Researchers\n\nPablo Correa Bocardo, ENLACE (Summer 2024)\nKeya Patel, ENLACE (Summer 2024)\nFrida Valeria Rivera Lopez, ENLACE (Summer 2024)\nMiranda Cuervo, ENLACE (Summer 2024)"
-  },
-  {
-    "objectID": "people.html#open-positions",
-    "href": "people.html#open-positions",
-    "title": "Meet the Team",
-    "section": "Open Positions",
-    "text": "Open Positions\n\n\n\nWe are Hiring!!\n We are looking to recruit talented graduate students and postdoctoral researchers!\nApply Now!"
-  },
-  {
-    "objectID": "people.html#graduate-rotation-students",
-    "href": "people.html#graduate-rotation-students",
-    "title": "Meet the Team",
-    "section": "Graduate Rotation Students",
-    "text": "Graduate Rotation Students\n\nJeremy Parker Yang, Bioinformatics and Systems Biology Ph.D. Student (Summer 2025)\nChristopher Brown, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)\nKimberly Spaulding, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)\nNicholas Chan, Bioinformatics and Systems Biology Ph.D. Student (Spring 2024)\nHyrum Eddington, Bioinformatics and Systems Biology Ph.D. Student (Winter 2024)\nAnna Qi, Bioinformatics and Systems Biology Ph.D. Student (Summer 2023)\nGiorgia Nicolaou, Data Science Ph.D. Student (Spring 2023)\nBenjamin Pham, Data Science Ph.D. Student (Spring 2023; Currently has ongoing collaborations!)"
-  },
-  {
-    "objectID": "people.html#open-projects-and-positions",
-    "href": "people.html#open-projects-and-positions",
-    "title": "Meet the Team",
-    "section": "Open Projects and Positions",
-    "text": "Open Projects and Positions\n\n\n\nWe are Hiring!!\n We are looking to recruit talented graduate students and postdoctoral researchers!\nApply Now!"
-  },
-  {
-    "objectID": "people.html#koyo-tanaka",
-    "href": "people.html#koyo-tanaka",
-    "title": "Meet the Team",
-    "section": "Koyo Tanaka",
-    "text": "Koyo Tanaka\n\n\n\n\n\n\n\nBioinformatics Undergraduate Student\nTBA"
   },
   {
     "objectID": "people.html#nichole-mora",
@@ -196,6 +84,34 @@
     "text": "Nichole Mora\n\n\n\n\n\n\n\nBioinformatics Undergraduate Student\nNichole Mora is a Bioinformatics student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation."
   },
   {
+    "objectID": "people.html#koyo-tanaka",
+    "href": "people.html#koyo-tanaka",
+    "title": "Meet the Team",
+    "section": "Koyo Tanaka",
+    "text": "Koyo Tanaka\n\n\n\n\n\n\n\nBioinformatics Undergraduate Student\nTBA"
+  },
+  {
+    "objectID": "people.html#open-projects-and-positions",
+    "href": "people.html#open-projects-and-positions",
+    "title": "Meet the Team",
+    "section": "Open Projects and Positions",
+    "text": "Open Projects and Positions\n\n\n\nWe are Hiring!!\n We are looking to recruit talented graduate students and postdoctoral researchers!\nApply Now!"
+  },
+  {
+    "objectID": "people.html#staff-researchers",
+    "href": "people.html#staff-researchers",
+    "title": "Meet the Team",
+    "section": "Staff Researchers",
+    "text": "Staff Researchers\n\nAlona Khorzhakova, Computational Data Science Researcher (Summer 2023 - Winter 2024)"
+  },
+  {
+    "objectID": "people.html#graduate-rotation-students",
+    "href": "people.html#graduate-rotation-students",
+    "title": "Meet the Team",
+    "section": "Graduate Rotation Students",
+    "text": "Graduate Rotation Students\n\nJeremy Parker Yang, Bioinformatics and Systems Biology Ph.D. Student (Summer 2025)\nChristopher Brown, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)\nKimberly Spaulding, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)\nNicholas Chan, Bioinformatics and Systems Biology Ph.D. Student (Spring 2024)\nHyrum Eddington, Bioinformatics and Systems Biology Ph.D. Student (Winter 2024)\nAnna Qi, Bioinformatics and Systems Biology Ph.D. Student (Summer 2023)\nGiorgia Nicolaou, Data Science Ph.D. Student (Spring 2023)\nBenjamin Pham, Data Science Ph.D. Student (Spring 2023; Currently has ongoing collaborations!)"
+  },
+  {
     "objectID": "people.html#high-school-undergraduate-researchers",
     "href": "people.html#high-school-undergraduate-researchers",
     "title": "Meet the Team",
@@ -203,11 +119,39 @@
     "text": "High School & Undergraduate Researchers\n\nStephen Golzari, Bioinformatics Undergraduate Student (Winter 2024 - Spring 2025)\nIeva Sereiva, Bioinformatics Undergraduate Student (Winter 2024 - Spring 2025)\nKai Akamatsu, Bioinformatics Undergraduate Student (Fall 2022 - Summer 2024)\nSujana Sreenivasan, Bioinformatics Undergraduate Student (Winter 2023 - Winter 2024)\nSivani Vedula, Bioinformatics Undergraduate Student (Winter 2023 - Winter 2024)\nBrandon Fuller, DBMI/STARS Summer Program Undergraduate Student (Summer 2024)\nPablo Correa Bocardo, ENLACE Summer Research Program Student (Summer 2024)\nMiranda Cuervo, ENLACE Summer Research Program Student (Summer 2024)\nFrida Valeria Rivera Lopez, ENLACE Summer Research Program Student (Summer 2024)\nKeya Patel, ENLACE Summer Research Program Student (Summer 2024)\nCiby Lin, Chemistry Undergraduate Student (Winter 2023 - Spring 2023)\nNicole Gonzalez, ENLACE Summer Research Program Student (Summer 2023) ​\nPaulina Montserrath, ENLACE Summer Research Program Student (Summer 2023)"
   },
   {
-    "objectID": "people.html#firstname-last-name",
-    "href": "people.html#firstname-last-name",
-    "title": "Meet the Team",
-    "section": "FirstName Last Name",
-    "text": "FirstName Last Name\n\n\n\n\n\n\n\nPosition Title Here\n2-3 Sentence Description of Person"
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "While you can find a full list of our publications on PubMed (https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/), this page has selected publications for the lab.\n\nEstimating the cis-heritability of gene expression from single cell RNA-sequencing\nXu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., Amariuta, T. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. bioRxiv (2025). https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. https://doi.org/10.1101/2025.02.24.639892.\n\n\nDetecting disease-critical genes in underrepresented populations\nAkamatsu, K., Golzari, S., Amariuta, T. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. medRxiv (2024). https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1. https://doi.org/10.1101/2024.09.25.24314410.\n\n\nInferring causal cell types in diseases and complex traits\nAmariuta T., Siewert-Rocks, K., Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. Nat. Genet. 55, 1503-1511 (2023).\n\n\nTrans-ancestry portability of genetic association data\nAmariuta, T.*, Ishigaki, K.*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nat. Genet. 52, 1346–1354 (2020). *These authors contributed equally to this work\n\n\nCell-type-specific enhancer predictions\nAmariuta, T., Luo, Y., Gazal, S., Davenport, E. E., van de Geijn, B., Ishigaki, K., Westra, H.-J., Teslovich, N., Okada, Y., Yamamoto, K., …, Price, A. L., Raychaudhuri, S. IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. Am. J. Hum. Genet. 104, 879–895 (2019).\n\n\n\n\n\n\nNote\n\n\n\nYou can also interact with IMPACT in the University of California, Santa Cruz (UCSC) Genome Browser!\nNavigate over to the Genome Browser page of our lab website for more information.\n\n\n\n\nReview article on advances in rheumatoid arthritis genetics\nAmariuta, T., Luo, Y., Knevel, R., Okada, Y., Raychaudhuri, S. Advances in genetics toward identifying and profiling pathogenic cell states of rheumatoid arthritis. Immunol. Rev. (2019)."
+  },
+  {
+    "objectID": "github.html",
+    "href": "github.html",
+    "title": "Methods Development",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Method Name\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nIMPACT (Transcription Factor Binding and Cell-Type-Specific Enhancer Prediction)\n\n\n GitHub   Paper   UCSC Genome Browser\n\n\nAmariuta, T., Luo, Y., Gazal, S., Davenport, E.E., van de Geijn, B., Ishigaki, K., Westra, H.J., Teslovich, N., Okada, Y., Yamamoto, K. and Price, A.L., 2019. IMPACT: genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. The American Journal of Human Genetics (2019).\n\n\n\nMay 2, 2019\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIMPACT 707 for Trans-Ancestry PRS\n\n\n GitHub   Paper\n\n\nAmariuta, T., Ishigaki, K., Sugishita, H. et al. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. Nat Genet 52, 1346–1354 (2020).\n\n\n\nNovember 30, 2020\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTCSC: Tissue Co-regulation SCore Regression (Inferring Causal Cell Types in Disease)\n\n\n GitHub   Paper\n\n\nAmariuta, T., Siewert-Rocks, K. & Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. Nat Genet 1503–1511 (2023).\n\n\n\nAugust 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMAGEPRO: Multi-Ancestry Gene Expression Prediction Regularized Optimization\n\n\n GitHub   Paper\n\n\nAkamatsu, K., Golzari, S., Amariuta, T. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. medRxiv (2024).\n\n\n\nSeptember 26, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nscGeneHE: single cell Gene Expression Heritability Estimation\n\n\n GitHub   Paper\n\n\nXu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., Amariuta, T. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. bioRxiv (2025).\n\n\n\nFebruary 28, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "The Amariuta Lab",
+    "section": "",
+    "text": "The Halıcıoğlu Data Science InstituteThe Department of MedicineUniversity of California, San Diego\nWe are a statistical genetics lab focusing on developing methods to study complex traits and polygenic diseases in global populations. We are specifically interested in fine-mapping disease genes and their cell types of action, with the goal of finding targets for gene-based therapeutics.\n\n\nResearch Interests\nCurrently, health-related discoveries from the field of human genetics disproportionately benefit individuals of European descent, due to the longstanding Eurocentric bias in data collection and study design. I am particularly motivated to work with ancestrally diverse patient cohorts and develop statistical genetics methods that can be applied to data from multiple populations; most methods have only been applied to European populations and cannot be applied to more than one population at a time.\nI am generally interested in studying the complex nature of the genetic susceptibility of human disease and phenotypes. The precise biological mechanisms through which genetic variation is mediated to impact complex traits and diseases remain largely uncertain. I am interested in studying intermediate phenotypes such as gene and protein expression, while also understanding how environmental factors can modulate genetic risk. My previous work has approached these questions from a population genetics perspective, leveraging large biobank data, such as genome-wide association studies (GWAS) from the UK Biobank and Biobank Japan, consortium-level functional data, such as from ENCODE, and gene expression studies, such as from GTEx.\n– Tiffany Amariuta, Principal Investigator"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Before starting her lab in San Diego, Tiffany earned a B.S. in Biological Engineering at MIT and went on to conduct graduate research with Dr. Soumya Raychaudhuri as part of the Bioinformatics and Integrative Genomics PhD program at Harvard Medical School, where she studied the genetic susceptibility of autoimmune diseases and other polygenic diseases. During graduate school, Tiffany developed machine learning methods to predict the functionality of regulatory variants, which had applications to transcription factor binding prediction, eQTL mapping, heritability enrichment analysis, and trans-ancestry portability of polygenic risk scores. She pursued post-doctoral research studying tissue-mediated genetic effects with Dr. Alkes Price at the Harvard School of Public Health. Now, Tiffany is an Assistant Professor in the Halıcıoğlu Data Science Institute and the Department of Medicine at the University of California San Diego. In her free time, Tiffany enjoys hiking, tennis, beach volleyball, and spending time with her dog, Dax."
+  },
+  {
+    "objectID": "about.html#tiffany-amariuta-ph.d.",
+    "href": "about.html#tiffany-amariuta-ph.d.",
+    "title": "About",
+    "section": "",
+    "text": "Before starting her lab in San Diego, Tiffany earned a B.S. in Biological Engineering at MIT and went on to conduct graduate research with Dr. Soumya Raychaudhuri as part of the Bioinformatics and Integrative Genomics PhD program at Harvard Medical School, where she studied the genetic susceptibility of autoimmune diseases and other polygenic diseases. During graduate school, Tiffany developed machine learning methods to predict the functionality of regulatory variants, which had applications to transcription factor binding prediction, eQTL mapping, heritability enrichment analysis, and trans-ancestry portability of polygenic risk scores. She pursued post-doctoral research studying tissue-mediated genetic effects with Dr. Alkes Price at the Harvard School of Public Health. Now, Tiffany is an Assistant Professor in the Halıcıoğlu Data Science Institute and the Department of Medicine at the University of California San Diego. In her free time, Tiffany enjoys hiking, tennis, beach volleyball, and spending time with her dog, Dax."
   },
   {
     "objectID": "CONTRIBUTING.html",
