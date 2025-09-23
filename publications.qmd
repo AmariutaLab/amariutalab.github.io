@@ -2,13 +2,15 @@
 title: "Publications"
 ---
 
-### Estimating the cis-heritability of gene expression from single cell RNA-sequencing
+*While you can find a full list of our publications on PubMed ([https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/)), this page has selected publications for the lab.*
 
-Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., **Amariuta, T**. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. *bioRxiv* (2025). [https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1]
+### Estimating the *cis*-heritability of gene expression from single cell RNA-sequencing
+
+**Xu, Z.**, Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., **Amariuta, T**. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. *bioRxiv* (2025). [https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1](https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1). [https://doi.org/10.1101/2025.02.24.639892](https://doi.org/10.1101/2025.02.24.639892).
 
 ### Detecting disease-critical genes in underrepresented populations
 
-Akamatsu, K., Golzari, S., **Amariuta, T**. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. *medRxiv* (2024). [https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1](https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1). [https://doi.org/10.1101/2024.09.25.24314410](https://doi.org/10.1101/2024.09.25.24314410).
+**Akamatsu, K.**, **Golzari, S.**, **Amariuta, T**. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. *medRxiv* (2024). [https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1](https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1). [https://doi.org/10.1101/2024.09.25.24314410](https://doi.org/10.1101/2024.09.25.24314410).
 
 ### Inferring causal cell types in diseases and complex traits
 
@@ -16,18 +18,18 @@ Akamatsu, K., Golzari, S., **Amariuta, T**. Powerful mapping of cis-genetic effe
 
 ### Trans-ancestry portability of genetic association data
 
-**Amariuta, T.**\*, Ishigaki, K.\*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. *Nat. Genet*. 52, 1346–1354 (2020). *\* indicates equal contributions*
+**Amariuta, T.**\*, Ishigaki, K.\*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. *Nat. Genet*. 52, 1346–1354 (2020). *\*These authors contributed equally to this work*
 
 ### Cell-type-specific enhancer predictions
 
-#### Interact with IMPACT on the [UCSC Genome Browser](https://www.amariutalab.org/genomebrowser)
-
 **Amariuta, T.**, Luo, Y., Gazal, S., Davenport, E. E., van de Geijn, B., Ishigaki, K., Westra, H.-J., Teslovich, N., Okada, Y., Yamamoto, K., …, Price, A. L., Raychaudhuri, S. IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. *Am. J. Hum. Genet*. 104, 879–895 (2019).
+
+::: {.callout-note}
+You can also interact with IMPACT in the [University of California, Santa Cruz (UCSC) Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr2%3A204731424%2D204737596&hgsid=1934727764_rIAiAWPAGhjOcW4HDUD1NMNWWv9W)! 
+
+Navigate over to the [Genome Browser](genomebrowser.qmd) page of our lab website for more information.
+:::
 
 ### Review article on advances in rheumatoid arthritis genetics
 
 **Amariuta, T.**, Luo, Y., Knevel, R., Okada, Y., Raychaudhuri, S. Advances in genetics toward identifying and profiling pathogenic cell states of rheumatoid arthritis. *Immunol. Rev.* (2019).
-
-### A full list of Dr. Amariuta's publications can be found here:
-
-[https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/)

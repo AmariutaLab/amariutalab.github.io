@@ -32,7 +32,7 @@ IMPACT prediction tracks are in `.bigwig` file format to be compatible with the 
 
 ## Acknowledgements
 
-We thank Alona Korzhakova, Computational Data Science Researcher in the Amariuta Lab, and Kathryn Weinand in the Raychaudhuri Lab for generating genome-wide base pair resolution IMPACT tracks. We thank Alona for integrating them with the UCSC genome browser, such that these data now have full and direct access to the genomics community.
+We thank **Alona Korzhakova**, a former Computational Data Science Researcher from our lab, and **Kathryn Weinand** from the Raychaudhuri Lab for generating genome-wide base pair resolution IMPACT tracks. We thank Alona for integrating them with the UCSC genome browser, such that these data now have full and direct access to the genomics community.
 
 ### We would love to hear your feedback!
 

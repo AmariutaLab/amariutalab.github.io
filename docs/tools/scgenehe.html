@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-02-28">
+<meta name="description" content="Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., Amariuta, T. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. bioRxiv (2025).">
 
-<title>Methods Development – The Amariuta Lab</title>
+<title>scGeneHE: single cell Gene Expression Heritability Estimation – The Amariuta Lab</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +25,20 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f0cff8c595969d222631b53a9c2819a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-f0cff8c595969d222631b53a9c2819a9.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -54,67 +54,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-title","listing-date"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -124,7 +66,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">The Amariuta Lab</span>
     </a>
   </div>
@@ -134,27 +76,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="../publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./github.html" aria-current="page"> 
+    <a class="nav-link" href="../github.html"> 
 <span class="menu-text">Github</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./genomebrowser.html"> 
+    <a class="nav-link" href="../genomebrowser.html"> 
 <span class="menu-text">Genome Browser</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./people.html"> 
+    <a class="nav-link" href="../people.html"> 
 <span class="menu-text">People</span></a>
   </li>  
 </ul>
@@ -174,14 +116,26 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Methods Development</h1>
+<h1 class="title"><strong>scGeneHE</strong>: single cell Gene Expression Heritability Estimation</h1>
+<p class="subtitle lead"><a href="https://github.com/AmariutaLab/scGeneHE"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a></p>
 </div>
 
+<div>
+  <div class="description">
+    Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., <strong>Amariuta, T</strong>. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. <em>bioRxiv</em> (2025).
+  </div>
+</div>
 
 
 <div class="quarto-title-meta column-page">
 
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">February 28, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -194,161 +148,7 @@ window.Quarto = {
 
 
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-title" data-direction="asc">
-          Method Name
-        </option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list grid quarto-listing-cols-1">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1556780400000" data-listing-file-modified-sort="1738104508481" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./tools/impact.html" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="./tools/impact.html" class="quarto-grid-link">
-<p class="card-img-top">
-<img loading="lazy" src="./img/tools/IMPACT_fig1.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-</a><div class="card-body post-contents"><a href="./tools/impact.html" class="quarto-grid-link">
-<h5 class="no-anchor card-title listing-title">
-<strong>IMPACT</strong> (Transcription Factor Binding and Cell-Type-Specific Enhancer Prediction)
-</h5>
-</a><div class="card-subtitle listing-subtitle"><a href="./tools/impact.html" class="quarto-grid-link">
-</a><a href="https://github.com/immunogenomics/IMPACT"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.sciencedirect.com/science/article/pii/S0002929719301089"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a>  <a href="../genomebrowser.qmd"><i class="fa-solid fa-computer" aria-label="computer"></i> UCSC Genome Browser</a>
-</div>
-<div class="card-text listing-description">
-<strong>Amariuta, T.</strong>, Luo, Y., Gazal, S., Davenport, E.E., van de Geijn, B., Ishigaki, K., Westra, H.J., Teslovich, N., Okada, Y., Yamamoto, K. and Price, A.L., 2019. IMPACT: genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. <em>The American Journal of Human Genetics</em> (2019).
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-May 2, 2019
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1606723200000" data-listing-file-modified-sort="1738104144579" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./tools/impact707.html" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="./tools/impact707.html" class="quarto-grid-link">
-<p class="card-img-top">
-<img loading="lazy" src="./img/tools/IMPACT707_fig1.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-</a><div class="card-body post-contents"><a href="./tools/impact707.html" class="quarto-grid-link">
-<h5 class="no-anchor card-title listing-title">
-<strong>IMPACT 707 for Trans-Ancestry PRS</strong>
-</h5>
-</a><div class="card-subtitle listing-subtitle"><a href="./tools/impact707.html" class="quarto-grid-link">
-</a><a href="https://github.com/TiffanyAmariuta/TCSC/"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.nature.com/articles/s41588-020-00740-8"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a>
-</div>
-<div class="card-text listing-description">
-<strong>Amariuta, T.</strong>, Ishigaki, K., Sugishita, H. et al.&nbsp;Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. <em>Nat Genet</em> 52, 1346–1354 (2020).
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-November 30, 2020
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1691996400000" data-listing-file-modified-sort="1738104126519" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./tools/tcsc.html" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="./tools/tcsc.html" class="quarto-grid-link">
-<p class="card-img-top">
-<img loading="lazy" src="./img/tools/TCSC_fig1.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-</a><div class="card-body post-contents"><a href="./tools/tcsc.html" class="quarto-grid-link">
-<h5 class="no-anchor card-title listing-title">
-<strong>TCSC</strong>: Tissue Co-regulation SCore Regression (Inferring Causal Cell Types in Disease)
-</h5>
-</a><div class="card-subtitle listing-subtitle"><a href="./tools/tcsc.html" class="quarto-grid-link">
-</a><a href="https://github.com/TiffanyAmariuta/TCSC/"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.nature.com/articles/s41588-023-01474-z"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a>
-</div>
-<div class="card-text listing-description">
-<strong>Amariuta, T.</strong>, Siewert-Rocks, K. &amp; Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. <em>Nat Genet</em> 1503–1511 (2023).
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-August 14, 2023
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1727334000000" data-listing-file-modified-sort="1738104600315" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./tools/magepro.html" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="./tools/magepro.html" class="quarto-grid-link">
-<p class="card-img-top">
-<img loading="lazy" src="./img/tools/MAGEPRO_fig1.jpeg" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-</a><div class="card-body post-contents"><a href="./tools/magepro.html" class="quarto-grid-link">
-<h5 class="no-anchor card-title listing-title">
-<strong>MAGEPRO</strong>: Multi-Ancestry Gene Expression Prediction Regularized Optimization
-</h5>
-</a><div class="card-subtitle listing-subtitle"><a href="./tools/magepro.html" class="quarto-grid-link">
-</a><a href="https://github.com/kaiakamatsu/MAGEPRO"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.medrxiv.org/content/10.1101/2024.09.25.24314410v1"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a>
-</div>
-<div class="card-text listing-description">
-<strong>Akamatsu, K.</strong>, <strong>Golzari, S.</strong>, <strong>Amariuta, T</strong>. Powerful mapping of cis-genetic effects on gene expression across diverse populations reveals novel disease-critical genes. <em>medRxiv</em> (2024).
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-September 26, 2024
-</div>
-</div>
-</div>
-</div>
-
-</div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1740729600000" data-listing-file-modified-sort="1757701512195" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./tools/scgenehe.html" class="quarto-grid-link">
-</a><div class="quarto-grid-item card h-100 card-left"><a href="./tools/scgenehe.html" class="quarto-grid-link">
-<p class="card-img-top">
-<img loading="lazy" src="./img/tools/scGeneHE_fig1.png" class="thumbnail-image card-img" style="height: 100%;">
-</p>
-</a><div class="card-body post-contents"><a href="./tools/scgenehe.html" class="quarto-grid-link">
-<h5 class="no-anchor card-title listing-title">
-<strong>scGeneHE</strong>: single cell Gene Expression Heritability Estimation
-</h5>
-</a><div class="card-subtitle listing-subtitle"><a href="./tools/scgenehe.html" class="quarto-grid-link">
-</a><a href="https://github.com/AmariutaLab/scGeneHE"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</a>  <a href="https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1"><i class="fa-solid fa-book" aria-label="book"></i> Paper</a>
-</div>
-<div class="card-text listing-description">
-Xu, Z., Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., <strong>Amariuta, T</strong>. https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1. <em>bioRxiv</em> (2025).
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-February 28, 2025
-</div>
-</div>
-</div>
-</div>
-
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

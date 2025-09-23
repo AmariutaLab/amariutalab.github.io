@@ -6,169 +6,203 @@ toc-depth: 2
 
 ## Tiffany Amariuta, Ph.D.
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Tiffany-Amariuta-1.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
 ### Principal Investigator
-<br>
+
 Tiffany started her group at UCSD in July of 2022. For more information about her and the research focus of the group, please see the home, about, and publications pages.
 
-
 :::
 :::
 
+<!-- ####################################################################### -->
 
 ## Michelle Franc Ragsac, Ph.D.
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Michelle-Franc-Ragsac.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
 ### Postdoctoral Scholar
 
-Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biology, specializing in genomic regulation during embryonic development. She is passionate about exploring the genetic foundations of developmental and childhood diseases. In her free time, she enjoys discovering new restaurants in San Diego and spending time with her Shiba Inu, Yuuki.
+Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biology, where she specialized in studying genomic regulation during embryonic development with large-scale enhancer screens and single-cell RNA-sequencing. After developing large-scale genomics pipelines in the biotechnology industry, she decided to return to academia for a postdoc. She is passionate about exploring the genetic foundations of developmental and childhood diseases. In her free time, she enjoys discovering new restaurants in San Diego and spending time with her Shiba Inu, Yuuki.
 
 :::
 :::
 
-## Ziqi Xu
-::: columns
-::: {.column width="45%"}
-
-![](img/people/Ziqi-Xu.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="50%"}
-### Bioinformatics & Systems Biology Ph.D. Student
-
-Ziqi is currently a second-year PhD student in the Bioinformatics and Systems Biology (BISB) program. Her research interest lies in developing computational and statistical methods to understand genetic contributions to diseases. Her current project focuses on estimating heritability from single cell gene expression data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-seq data. Ziqi enjoys spending her spare time in dog parks and zoos.
-
-:::
-:::
+<!-- ####################################################################### -->
 
 ## Krishna Brunton
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Krishna-Brunton.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
-### Bioengineering Ph.D. Student
+### Bioengineering Ph.D. Candidate
 
-Krishna is a PhD student in the Bioengineering department. He graduated from UC Santa Barbara in 2021, where he majored in Biochemistry-Molecular Biology. His current research project focuses on developing methods to identify genome-wide contributions to gene expression regulation. Krishna's hobbies include checking out new coffee shops and hiking.
+Krishna is a third-year Ph.D. Candidate from the Department of Bioengineering. He graduated from UC Santa Barbara in 2021, where he majored in Biochemistry-Molecular Biology. His current research project focuses on developing methods to identify genome-wide contributions to gene expression regulation, such as evaluating *trans*-acting expression quantitative trait loci (trans-eQTLs). Krishna's hobbies include checking out new coffee shops and hiking.
 
 :::
 :::
+
+<!-- ####################################################################### -->
+
+## Ziqi Xu
+::: columns
+
+<!-- Person Icon -->
+::: {.column width="45%"}
+![](img/people/Ziqi-Xu.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+<!-- Person Description -->
+::: {.column width="50%"}
+### Bioinformatics & Systems Biology Ph.D. Student
+
+Ziqi is a second-year Ph.D. Student in the Bioinformatics and Systems Biology (BISB) interdisciplinary graduate program. She is interested in developing computational and statistical methods to understand the genetic contributions to various diseases. Her current project focuses on estimating heritability from single-cell data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-sequencing data. Ziqi enjoys spending her spare time in dog parks and zoos.
+
+:::
+:::
+
+<!-- ####################################################################### -->
 
 ## Ishaan Gupta
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Ishaan-Gupta.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
 ### Computer Science & Engineering Ph.D. Student
 
-Ishaan is a PhD student in the Computer Science department and is driven to improve our ability to predict immune responses and disorders in patients. He is currently using gene expression prediction models to find causal cell types and states in autoimmune disorders and immune cell mechanisms. In his free time, Ishaan loves to try food and recipes from across the globe or go hiking.
+Ishaan is a Ph.D. Student from the Department of Computer Science and Engineering. He is driven to improve our ability to predict immune responses and disorders in patients, as well as studying how sequence-to-function models can be used to understand the implication of genetic variants in disease. For one project, he is currently using gene expression prediction models to find causal cell types and states in autoimmune disorders and immune cell mechanisms. Another one of his projects is evaluating the potential contributions diploid-formatted inputs may provide to sequence-to-function models. In his free time, Ishaan loves to try food and recipes from across the globe or going hiking.
 
 :::
 :::
+
+<!-- ####################################################################### -->
 
 ## Xiaoyu Gui
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Xiaoyu-Gui.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
-### Undergraduate Researcher
+### Data Science Ph.D. Student
 
-Xiaoyu is a third-year undergraduate majoring in Data Science with two minors in General Biology and Mathematics. Her interest lies in leveraging data science techniques to help minimize the gap in health-related discoveries among populations with different ancestry. In her free time, she enjoys taking photos around the city.
-
-:::
-:::
-
-## Stephen Golzari
-::: columns
-::: {.column width="45%"}
-
-![](img/people/Stephen-Golzari.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="50%"}
-### Undergraduate Researcher
-
-Stephen is a third-year undergraduate researcher majoring in Bioengineering/Bioinformatics. He is currently working on incorporating fine-mapping methods to improve multi-ancestry gene expression prediction models. In his free time, Stephen enjoys composing music and playing chess.
+Xiaoyu is a first-year Ph.D. Student from the Data Science graduate program. She previously joined the lab as a third-year undergraduate student, where she finished her major in Data Science with two minors in General Biology and Mathematics. Her interest lies in leveraging data science techniques to help minimize the gap in health-related discoveries among populations with different ancestry. In her free time, she enjoys taking photos around the city.
 
 :::
 :::
 
-## Ieva Sereiva
-::: columns
-::: {.column width="45%"}
-
-![](img/people/Ieva-Sereiva.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-::: {.column width="50%"}
-### Undergraduate Researcher
-
-Ieva is a third-year undergraduate student studying bioinformatics at UCSD.  She is currently working on the development of a pangenome browser, which is aimied at providing a user-friendly interface for visualising and analyzing pangenomic data. In her free time, Ieva likes to read and explore the city with friends.
-
-:::
-:::
+<!-- ####################################################################### -->
 
 ## Nan Huang
 ::: columns
-::: {.column width="45%"}
 
+<!-- Person Icon -->
+::: {.column width="45%"}
 ![](img/people/Nan-Huang.png)
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Person Description -->
 ::: {.column width="50%"}
-### Undergraduate Researcher
+### Data Science Ph.D. Student
 
-Nan is a third-year undergraduate student double majoring in Data Science and Math Econ. She is interested in understanding the genetic basis of childhood asthma, aiming to develop clinical risk models that integrate genetic, transcriptomic, and non-genetic risk factors to enhance early asthma detection and personalized treatment strategies. Outside the lab, Nan enjoys exploring new restaurants, cooking recipes, and different types of music.
+Nan is a first-year Ph.D. Student from the Data Science graduate program. Like Xiaoyu, she previously joined the lab as a third-year undergraduate student with a double major in Data Science and Math-Economics. She is interested in understanding the genetic basis of childhood asthma, aiming to develop clinical risk models that integrate genetic, transcriptomic, and non-genetic risk factors to enhance early asthma detection and personalized treatment strategies. Outside the lab, Nan enjoys exploring new restaurants, cooking recipes, and different types of music.
 
 :::
 :::
 
-## Join Us!!
+<!-- ####################################################################### -->
+
+## Nichole Mora
+::: columns
+
+<!-- Person Icon -->
+::: {.column width="45%"}
+![](img/people/Nichole-Mora.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+<!-- Person Description -->
+::: {.column width="50%"}
+### Bioinformatics Undergraduate Student
+
+Nichole Mora is a Bioinformatics student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation.
+
+:::
+:::
+
+<!-- ####################################################################### -->
+
+## Koyo Tanaka
+::: columns
+
+<!-- Person Icon -->
+::: {.column width="45%"}
+![](img/people/Placeholder-Person.jpg)
+:::
+
+::: {.column width="5%"}
+:::
+
+<!-- Person Description -->
+::: {.column width="50%"}
+### Bioinformatics Undergraduate Student
+
+*TBA*
+
+:::
+:::
+
+<!-- ####################################################################### -->
+
+## Open Projects and Positions
 ::: columns
 ::: {.column width="50%"}
 ### We are Hiring!!
@@ -189,31 +223,37 @@ We are looking to recruit talented graduate students and postdoctoral researcher
 :::
 :::
 
+<!-- ####################################################################### -->
+
 # Lab Alumni 
 
 ## Staff Researchers
 
-* Alona Khorzhakova, Computational Data Science Researcher (Summer 2023 - Winter 2024)
+* **Alona Khorzhakova**, Computational Data Science Researcher (Summer 2023 - Winter 2024)
 
-## PhD Rotation Students 
+## Graduate Rotation Students 
 
-* Benjamin Pham, Data Science (Spring 2023, ongoing collaborations)
-* Giorgia Nicolaou, Data Science (Spring 2023) 
-* Anna Qi, Bioinformatics and Systems Biology (Summer 2023)
-* Hyrum Eddington, Bioinformatics and Systems Biology (Winter 2024)
-* Nicholas Chan, Bioinformatics and Systems Biology (Spring 2024)
+* **Jeremy Parker Yang**, Bioinformatics and Systems Biology Ph.D. Student (Summer 2025)
+* **Christopher Brown**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)
+* **Kimberly Spaulding**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)
+* **Nicholas Chan**, Bioinformatics and Systems Biology Ph.D. Student (Spring 2024)
+* **Hyrum Eddington**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2024)
+* **Anna Qi**, Bioinformatics and Systems Biology Ph.D. Student (Summer 2023)
+* **Giorgia Nicolaou**, Data Science Ph.D. Student (Spring 2023)
+* **Benjamin Pham**, Data Science Ph.D. Student (Spring 2023; Currently has ongoing collaborations!)
 
-## Undergraduate Researchers
+## High School & Undergraduate Researchers
 
-* Kai Akamatsu, Bioinformatics (Fall 2022 - Summer 2024)
-* Ciby Lin, Chemistry (Winter 2023 - Spring 2023)
-* Sivani Vedula, Bioinformatics (Winter 2023 - Winter 2024)
-* Sujana Sreenivasan, Bioinformatics (Winter 2023 - Winter 2024) 
-* Paulina Montserrath, ENLACE (Summer 2023)
-* Nicole Gonzalez, ENLACE (Summer 2023) ​
-* Brandon Fuller (DBMI and STARS summer program 2024)
-* Pablo Correa Bocardo, ENLACE (Summer 2024)
-* Keya Patel, ENLACE (Summer 2024) 
-* Frida Valeria Rivera Lopez, ENLACE (Summer 2024) 
-* Miranda Cuervo, ENLACE (Summer 2024) 
-
+* **Stephen Golzari**, Bioinformatics Undergraduate Student (Winter 2024 - Spring 2025)
+* **Ieva Sereiva**, Bioinformatics Undergraduate Student (Winter 2024 - Spring 2025)
+* **Kai Akamatsu**, Bioinformatics Undergraduate Student (Fall 2022 - Summer 2024)
+* **Sujana Sreenivasan**, Bioinformatics Undergraduate Student (Winter 2023 - Winter 2024) 
+* **Sivani Vedula**, Bioinformatics Undergraduate Student (Winter 2023 - Winter 2024)
+* **Brandon Fuller**, DBMI/STARS Summer Program Undergraduate Student (Summer 2024)
+* **Pablo Correa Bocardo**, ENLACE Summer Research Program Student (Summer 2024)
+* **Miranda Cuervo**, ENLACE Summer Research Program Student (Summer 2024) 
+* **Frida Valeria Rivera Lopez**, ENLACE Summer Research Program Student (Summer 2024) 
+* **Keya Patel**, ENLACE Summer Research Program Student (Summer 2024) 
+* **Ciby Lin**, Chemistry Undergraduate Student (Winter 2023 - Spring 2023)
+* **Nicole Gonzalez**, ENLACE Summer Research Program Student (Summer 2023) ​
+* **Paulina Montserrath**, ENLACE Summer Research Program Student (Summer 2023)
