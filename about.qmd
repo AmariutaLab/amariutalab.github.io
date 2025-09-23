@@ -2,19 +2,21 @@
 title: "About"
 ---
 
-
 ## Tiffany Amariuta, Ph.D.
+
 ::: columns
+
+<!-- Description -->
 ::: {.column width="45%"}
 Before starting her lab in San Diego, Tiffany earned a B.S. in Biological Engineering at MIT and went on to conduct graduate research with Dr. Soumya Raychaudhuri as part of the Bioinformatics and Integrative Genomics PhD program at Harvard Medical School, where she studied the genetic susceptibility of autoimmune diseases and other polygenic diseases. During graduate school, Tiffany developed machine learning methods to predict the functionality of regulatory variants, which had applications to transcription factor binding prediction, eQTL mapping, heritability enrichment analysis, and trans-ancestry portability of polygenic risk scores. She pursued post-doctoral research studying tissue-mediated genetic effects with Dr. Alkes Price at the Harvard School of Public Health. Now, Tiffany is an Assistant Professor in the Halıcıoğlu Data Science Institute and the Department of Medicine at the University of California San Diego. In her free time, Tiffany enjoys hiking, tennis, beach volleyball, and spending time with her dog, Dax.
-
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Photograph -->
 ::: {.column width="50%"}
-
 ![](img/people/Tiffany-Amariuta-2.png)
+
 :::
 :::

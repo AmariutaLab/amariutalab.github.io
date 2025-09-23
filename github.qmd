@@ -16,3 +16,5 @@ listing:
     fields: ['image', 'title', 'subtitle', 'description', 'date']
     image-height: 100%
 ---
+
+<!-- Add methods to this page by adding a .qmd document to the /tools/ directory -->

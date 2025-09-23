@@ -204,20 +204,21 @@ Nichole Mora is a Bioinformatics student minoring in Computer Science, where she
 
 ## Open Projects and Positions
 ::: columns
+
+<!-- Advertisement -->
 ::: {.column width="50%"}
 ### We are Hiring!!
-<br>
+
 We are looking to recruit talented graduate students and postdoctoral researchers! 
 
 [Apply Now!](mailto:tamariutabartell@ucsd.edu){.btn .btn-outline-primary}
-
 :::
 
 ::: {.column width="5%"}
 :::
 
+<!-- Image -->
 ::: {.column width="45%"}
-
 ![](img/people/ASHG24.png)
 
 :::

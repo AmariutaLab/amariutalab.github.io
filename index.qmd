@@ -13,9 +13,8 @@ We are a statistical genetics lab focusing on developing methods to study comple
 
 ### Research Interests
 
-
 Currently, health-related discoveries from the field of human genetics disproportionately benefit individuals of European descent, due to the longstanding Eurocentric bias in data collection and study design. I am particularly motivated to work with ancestrally diverse patient cohorts and develop statistical genetics methods that can be applied to data from multiple populations; most methods have only been applied to European populations and cannot be applied to more than one population at a time.
 
 I am generally interested in studying the complex nature of the genetic susceptibility of human disease and phenotypes. The precise biological mechanisms through which genetic variation is mediated to impact complex traits and diseases remain largely uncertain. I am interested in studying intermediate phenotypes such as gene and protein expression, while also understanding how environmental factors can modulate genetic risk. My previous work has approached these questions from a population genetics perspective, leveraging large biobank data, such as genome-wide association studies (GWAS) from the UK Biobank and Biobank Japan, consortium-level functional data, such as from ENCODE, and gene expression studies, such as from GTEx.  
 
--- Tiffany Amariuta, Principal Investigator 
+-- Tiffany Amariuta, Principal Investigator

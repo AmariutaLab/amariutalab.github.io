@@ -9,14 +9,16 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - publications.qmd
+      - href: about.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
       - href: github.qmd
         text: Github
       - href: genomebrowser.qmd
-        text: Genome Browser
+        text: IMPACT on the UCSC Genome Browser
       - href: people.qmd
-        text: People
+        text: Lab Members
     background: dark
   page-footer:
     left: |
