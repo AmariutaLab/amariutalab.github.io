@@ -14,15 +14,15 @@ title: "Publications"
 
 ### Inferring causal cell types in diseases and complex traits
 
-**Amariuta T.**, Siewert-Rocks, K., Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. *Nat. Genet*. 55, 1503-1511 (2023). 
+**Amariuta T.**, Siewert-Rocks, K., Price, A.L. Modeling tissue co-regulation estimates tissue-specific contributions to disease. *Nature Genetics*. 55, 1503-1511 (2023). [https://www.nature.com/articles/s41588-023-01474-z](https://www.nature.com/articles/s41588-023-01474-z). [https://doi.org/10.1038/s41588-023-01474-z](https://doi.org/10.1038/s41588-023-01474-z).
 
 ### Trans-ancestry portability of genetic association data
 
-**Amariuta, T.**\*, Ishigaki, K.\*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. *Nat. Genet*. 52, 1346–1354 (2020). *\*These authors contributed equally to this work*
+**Amariuta, T.**\*, Ishigaki, K.\*, Sugishita, H., Ohta, T., Koido, M., Dey, K. K., Matsuda, K., Murakami, Y., Price, A. L., Kawakami, E., Terao, C. & Raychaudhuri, S. Improving the trans-ancestry portability of polygenic risk scores by prioritizing variants in predicted cell-type-specific regulatory elements. *Nature Genetics*. 52, 1346–1354 (2020). [https://www.nature.com/articles/s41588-020-00740-8](https://www.nature.com/articles/s41588-020-00740-8). [https://doi.org/10.1038/s41588-020-00740-8](https://doi.org/10.1038/s41588-020-00740-8). *\*These authors contributed equally to this work*
 
 ### Cell-type-specific enhancer predictions
 
-**Amariuta, T.**, Luo, Y., Gazal, S., Davenport, E. E., van de Geijn, B., Ishigaki, K., Westra, H.-J., Teslovich, N., Okada, Y., Yamamoto, K., …, Price, A. L., Raychaudhuri, S. IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. *Am. J. Hum. Genet*. 104, 879–895 (2019).
+**Amariuta, T.**, Luo, Y., Gazal, S., Davenport, E. E., van de Geijn, B., Ishigaki, K., Westra, H.-J., Teslovich, N., Okada, Y., Yamamoto, K., RACI Consortium, GARNET Consortium, Price, A. L., Raychaudhuri, S. IMPACT: Genomic annotation of cell-state-specific regulatory elements inferred from the epigenome of bound transcription factors. *American Journal of Human Genetics*. 104, 879–895 (2019). [https://www.cell.com/ajhg/fulltext/S0002-9297(19)30108-9](https://www.cell.com/ajhg/fulltext/S0002-9297(19)30108-9). [https://doi.org/10.1016/j.ajhg.2019.03.012](https://doi.org/10.1016/j.ajhg.2019.03.012).
 
 ::: {.callout-note}
 You can also interact with IMPACT in the [University of California, Santa Cruz (UCSC) Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chr2%3A204731424%2D204737596&hgsid=1934727764_rIAiAWPAGhjOcW4HDUD1NMNWWv9W)! 
@@ -32,4 +32,4 @@ Navigate over to the [Genome Browser](genomebrowser.qmd) page of our lab website
 
 ### Review article on advances in rheumatoid arthritis genetics
 
-**Amariuta, T.**, Luo, Y., Knevel, R., Okada, Y., Raychaudhuri, S. Advances in genetics toward identifying and profiling pathogenic cell states of rheumatoid arthritis. *Immunol. Rev.* (2019).
+**Amariuta, T.**, Luo, Y., Knevel, R., Okada, Y., Raychaudhuri, S. Advances in genetics toward identifying and profiling pathogenic cell states of rheumatoid arthritis. *Immunological Reviews* (2019). [https://onlinelibrary.wiley.com/doi/10.1111/imr.12827](https://onlinelibrary.wiley.com/doi/10.1111/imr.12827). [https://doi.org/10.1111/imr.12827](https://doi.org/10.1111/imr.12827).
