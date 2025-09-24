@@ -173,7 +173,7 @@ Nan is a first-year Ph.D. Student from the Data Science graduate program. Like X
 ::: {.column width="50%"}
 ### Bioinformatics Undergraduate Student
 
-Nichole Mora is a Bioinformatics student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation.
+Nichole is a third-year Bioinformatics undergraduate student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation.
 
 :::
 :::
@@ -185,7 +185,7 @@ Nichole Mora is a Bioinformatics student minoring in Computer Science, where she
 
 <!-- Person Icon -->
 ::: {.column width="45%"}
-![](img/people/Placeholder-Person.jpg)
+![](img/people/Koyo-Tanaka.png)
 :::
 
 ::: {.column width="5%"}
@@ -195,7 +195,7 @@ Nichole Mora is a Bioinformatics student minoring in Computer Science, where she
 ::: {.column width="50%"}
 ### Bioinformatics Undergraduate Student
 
-*TBA*
+Koyo is a second-year Bioinformatics undergraduate student minoring in Computer Science. His interest lies in developing fine-mapping methods and identifying causal variants in multi-ancestry cohorts to better understand the genetic contributions to various diseases. In his free time, Koyo enjoys taking pictures and exploring the great outdoors.
 
 :::
 :::
