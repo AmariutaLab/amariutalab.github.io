@@ -173,8 +173,6 @@ Nan is a first-year Ph.D. Student from the Data Science graduate program. Like X
 ::: {.column width="50%"}
 ### Bioinformatics Undergraduate Student
 
-Nichole is a third-year Bioinformatics undergraduate student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation.
-
 Eric is a fourth-year undergraduate student double majoring in Data Science and Oceanic & Atmospheric Science. He is interested in the applications of data science for uncovering genetic pathways and building data pipelines for large scale analysis of omics data. In his free time, he enjoys playing tennis, eating good food, and playing video games.
 
 :::
