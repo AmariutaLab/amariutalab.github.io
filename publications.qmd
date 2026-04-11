@@ -4,6 +4,10 @@ title: "Publications"
 
 *While you can find a full list of our publications on PubMed ([https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/](https://www.ncbi.nlm.nih.gov/myncbi/tiffany.amariuta.1/bibliography/public/)), this page has selected publications for the lab.*
 
+### Leveraging *trans*-genetic predictions of gene expression to improve disease-gene association power 
+
+**Brunton, K.**, Ragsac, M., **Amariuta, T**. Leveraging genome-wide effects on gene expression to identify disease-critical genes with *trans*-genetic components *medRxiv* (2026). [https://www.medrxiv.org/content/10.64898/2026.02.23.26346922v1](https://www.medrxiv.org/content/10.64898/2026.02.23.26346922v1). [https://doi.org/10.64898/2026.02.23.26346922](https://doi.org/10.64898/2026.02.23.26346922).
+
 ### Estimating the *cis*-heritability of gene expression from single cell RNA-sequencing
 
 **Xu, Z.**, Massarat, A., Rumker, L., Gymrek, M., Raychaudhuri, S., Zhou, W., **Amariuta, T**. Estimating the cis-heritability of gene expression using single cell expression profiles controls false positive rate of eGene detection. *bioRxiv* (2025). [https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1](https://www.biorxiv.org/content/10.1101/2025.02.24.639892v1). [https://doi.org/10.1101/2025.02.24.639892](https://doi.org/10.1101/2025.02.24.639892).
