@@ -48,6 +48,28 @@ Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biol
 
 <!-- ####################################################################### -->
 
+## Brittany S. Leger, Ph.D.
+::: columns
+
+<!-- Person Icon -->
+::: {.column width="45%"}
+![](img/people/Brittany.png)
+:::
+
+::: {.column width="5%"}
+:::
+
+<!-- Person Description -->
+::: {.column width="50%"}
+### Postdoctoral Scholar
+
+Brittan is a Postdoctoral Scholar with a Ph.D. in Biomedical Sciences from UC San Diego, where she used network biology techniques to identify conserved genetic regulation of complex behavioral traits, particularly substance use disorders, between humans and heterogeneous stock rats. In her free time, Brittany loves caring for dogs. 
+
+:::
+:::
+
+<!-- ####################################################################### -->
+
 ## Krishna Brunton
 ::: columns
 
@@ -63,7 +85,7 @@ Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biol
 ::: {.column width="50%"}
 ### Bioengineering Ph.D. Candidate
 
-Krishna is a third-year Ph.D. Candidate from the Department of Bioengineering. He graduated from UC Santa Barbara in 2021, where he majored in Biochemistry-Molecular Biology. His current research project focuses on developing methods to identify genome-wide contributions to gene expression regulation, such as evaluating *trans*-acting expression quantitative trait loci (trans-eQTLs). Krishna's hobbies include checking out new coffee shops and hiking.
+Krishna is a fourth-year Ph.D. Candidate from the Department of Bioengineering. He graduated from UC Santa Barbara in 2021, where he majored in Biochemistry-Molecular Biology. His current research project focuses on developing methods to identify genome-wide contributions to gene expression regulation, such as evaluating *trans*-acting expression quantitative trait loci (trans-eQTLs). Krishna's hobbies include checking out new coffee shops and hiking.
 
 :::
 :::
@@ -85,7 +107,7 @@ Krishna is a third-year Ph.D. Candidate from the Department of Bioengineering. H
 ::: {.column width="50%"}
 ### Bioinformatics & Systems Biology Ph.D. Student
 
-Ziqi is a second-year Ph.D. Student in the Bioinformatics and Systems Biology (BISB) interdisciplinary graduate program. She is interested in developing computational and statistical methods to understand the genetic contributions to various diseases. Her current project focuses on estimating heritability from single-cell data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-sequencing data. Ziqi enjoys spending her spare time in dog parks and zoos.
+Ziqi is a third-year Ph.D. Student in the Bioinformatics and Systems Biology (BISB) interdisciplinary graduate program. She is interested in developing computational and statistical methods to understand the genetic contributions to various diseases. Her current project focuses on estimating heritability from single-cell data and investigating co-regulation across genes and cell types using GWAS and single-cell RNA-sequencing data. Ziqi enjoys spending her spare time in dog parks and zoos.
 
 :::
 :::
@@ -107,7 +129,7 @@ Ziqi is a second-year Ph.D. Student in the Bioinformatics and Systems Biology (B
 ::: {.column width="50%"}
 ### Computer Science & Engineering Ph.D. Student
 
-Ishaan is a Ph.D. Student from the Department of Computer Science and Engineering. He is driven to improve our ability to predict immune responses and disorders in patients, as well as studying how sequence-to-function models can be used to understand the implication of genetic variants in disease. For one project, he is currently using gene expression prediction models to find causal cell types and states in autoimmune disorders and immune cell mechanisms. Another one of his projects is evaluating the potential contributions diploid-formatted inputs may provide to sequence-to-function models. In his free time, Ishaan loves to try food and recipes from across the globe or going hiking.
+Ishaan is a third-year Ph.D. Student from the Department of Computer Science and Engineering. He is driven to improve our ability to predict immune responses and disorders in patients, as well as studying how sequence-to-function models can be used to understand the implication of genetic variants in disease. For one project, he is currently using gene expression prediction models to find causal cell types and states in autoimmune disorders and immune cell mechanisms. Another one of his projects is evaluating the potential contributions diploid-formatted inputs may provide to sequence-to-function models. In his free time, Ishaan loves to try food and recipes from across the globe or going hiking.
 
 :::
 :::
@@ -158,12 +180,12 @@ Nan is a first-year Ph.D. Student from the Data Science graduate program. Like X
 
 <!-- ####################################################################### -->
 
-## Eric Pham
+## Jeremy Parker Yang
 ::: columns
 
 <!-- Person Icon -->
 ::: {.column width="45%"}
-![](img/people/Eric-Pham.jpeg)
+![](img/people/Jeremy.png)
 :::
 
 ::: {.column width="5%"}
@@ -171,31 +193,9 @@ Nan is a first-year Ph.D. Student from the Data Science graduate program. Like X
 
 <!-- Person Description -->
 ::: {.column width="50%"}
-### Bioinformatics Undergraduate Student
+### Bioinformatics Ph.D. Student
 
-Eric is a fourth-year undergraduate student double majoring in Data Science and Oceanic & Atmospheric Science. He is interested in the applications of data science for uncovering genetic pathways and building data pipelines for large scale analysis of omics data. In his free time, he enjoys playing tennis, eating good food, and playing video games.
-
-:::
-:::
-
-<!-- ####################################################################### -->
-
-## Nichole Mora
-::: columns
-
-<!-- Person Icon -->
-::: {.column width="45%"}
-![](img/people/Nichole-Mora.jpg)
-:::
-
-::: {.column width="5%"}
-:::
-
-<!-- Person Description -->
-::: {.column width="50%"}
-### Bioinformatics Undergraduate Student
-
-Nichole is a third-year Bioinformatics undergraduate student minoring in Computer Science, where she combines her passion for biology with problem-solving through code. She looks forward to growing her skills in research and technology, and contributing to projects that push the boundaries of science and innovation.
+Jeremy is a second-year Ph.D. Candidate from the Bioinformatics and Systems Biology program. He graduated from the University of Wisconsin-Madison in 2023, where he majored in Computer Science. His current research project focuses on building new sequence-to-function deep learning architectures to leverage multi-omic data to predict personalized molecular traits.
 
 :::
 :::
