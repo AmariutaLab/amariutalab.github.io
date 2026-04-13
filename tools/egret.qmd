@@ -1,0 +1,7 @@
+---
+title: "**EGRET**: Estimating Genome-wide Regulatory Effects on the Transcriptome"
+subtitle: "[{{< fa brands github >}} GitHub](https://github.com/AmariutaLab/EGRET)&ensp;&emsp;[{{< fa solid book >}} Paper](https://www.medrxiv.org/content/10.64898/2026.02.23.26346922v1)"
+description: "Brunton, K., Ragsac, M.F., **Amariuta, T**. https://www.medrxiv.org/content/10.64898/2026.02.23.26346922v1. *medRxiv* (2026)."
+date: 02/25/2026
+image: /img/tools/EGRET_fig1.png
+---
