@@ -53,7 +53,7 @@ Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biol
 
 <!-- Person Icon -->
 ::: {.column width="45%"}
-![](img/people/Brittany.png)
+![](img/people/Brittany.jpg)
 :::
 
 ::: {.column width="5%"}
@@ -63,7 +63,7 @@ Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biol
 ::: {.column width="50%"}
 ### Postdoctoral Scholar
 
-Brittan is a Postdoctoral Scholar with a Ph.D. in Biomedical Sciences from UC San Diego, where she used network biology techniques to identify conserved genetic regulation of complex behavioral traits, particularly substance use disorders, between humans and heterogeneous stock rats. In her free time, Brittany loves caring for dogs. 
+Brittany is a Postdoctoral Scholar with a Ph.D. in Biomedical Sciences from UC San Diego, where she used network biology techniques to identify conserved genetic regulation of complex behavioral traits, particularly substance use disorders, between humans and heterogeneous stock rats. In her free time, Brittany loves caring for dogs. 
 
 :::
 :::
