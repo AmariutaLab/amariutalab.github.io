@@ -257,7 +257,7 @@ We are looking to recruit talented graduate students and postdoctoral researcher
 ## Graduate Rotation Students 
 
 * **Saara Kriplani**, Data Science Ph.D. Student (Winter 2026)
-* **Sunan Xu**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2026)
+* **Sunan Xu**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2026; current collaborator)
 * **Jeremy Parker Yang**, Bioinformatics and Systems Biology Ph.D. Student (Summer 2025)
 * **Christopher Brown**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)
 * **Kimberly Spaulding**, Bioinformatics and Systems Biology Ph.D. Student (Winter 2025)
