@@ -26,28 +26,6 @@ Tiffany started her group at UCSD in July of 2022. For more information about he
 
 <!-- ####################################################################### -->
 
-## Michelle Franc Ragsac, Ph.D.
-::: columns
-
-<!-- Person Icon -->
-::: {.column width="45%"}
-![](img/people/Michelle-Franc-Ragsac.png)
-:::
-
-::: {.column width="5%"}
-:::
-
-<!-- Person Description -->
-::: {.column width="50%"}
-### Postdoctoral Scholar
-
-Michelle is a Postdoctoral Scholar with a Ph.D. in Bioinformatics & Systems Biology, where she specialized in studying genomic regulation during embryonic development with large-scale enhancer screens and single-cell RNA-sequencing. After developing large-scale genomics pipelines in the biotechnology industry, she decided to return to academia for a postdoc. She is passionate about exploring the genetic foundations of developmental and childhood diseases. In her free time, she enjoys discovering new restaurants in San Diego and spending time with her Shiba Inu, Yuuki.
-
-:::
-:::
-
-<!-- ####################################################################### -->
-
 ## Brittany S. Leger, Ph.D.
 ::: columns
 
@@ -253,6 +231,10 @@ We are looking to recruit talented graduate students and postdoctoral researcher
 ## Staff Researchers
 
 * **Alona Khorzhakova**, Computational Data Science Researcher (Summer 2023 - Winter 2024)
+
+## Postdoctoral Researchers 
+
+* **Michelle Ragsac, PhD** (Fall 2024 - Spring 2026)
 
 ## Graduate Rotation Students 
 
