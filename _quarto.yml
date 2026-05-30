@@ -4,6 +4,7 @@ project:
 
 website:
   title: "The Amariuta Lab"
+  site-url: "https://amariutalab.org"
   search: false
   navbar:
     right:
