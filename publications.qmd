@@ -6,7 +6,7 @@ title: "Publications"
 
 ### Polygenic transcrtipome risk scores for childhood asthma
 
-**Huang*, N.**, Ragsac*, M., Gui, X., Tantisira, K., **Amariuta, T**. Multimodal gene prioritization reveals nonlinear regulatory architecture in childhood-onset asthma *medRxiv* (2026). [https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1](https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1). [https://doi.org/10.64898/2026.07.14.26357983](https://doi.org/10.64898/2026.07.14.26357983).
+**Huang, N.**, **Ragsac, M.**, Gui, X., Tantisira, K., **Amariuta, T**. Multimodal gene prioritization reveals nonlinear regulatory architecture in childhood-onset asthma *medRxiv* (2026). [https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1](https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1). [https://doi.org/10.64898/2026.07.14.26357983](https://doi.org/10.64898/2026.07.14.26357983).
 
 ### Leveraging *trans*-genetic predictions of gene expression to improve disease-gene association power 
 

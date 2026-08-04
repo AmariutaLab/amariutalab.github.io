@@ -1,7 +1,7 @@
 ---
 title: "**Asthma-PTRS**: Fine-mapping-informed polygenic transcriptome risk scores for childhood asthma"
 subtitle: "[{{< fa brands github >}} GitHub](https://github.com/AmariutaLab/asthma-prs-study-public)&ensp;&emsp;[{{< fa solid book >}} Paper](https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1)"
-description: "**Huang*, N.**, Ragsac*, M., Gui, X., Tantisira, K., **Amariuta, T**. https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1. *medRxiv* (2026)."
+description: "**Huang, N.**, **Ragsac, M.**, Gui, X., Tantisira, K., **Amariuta, T**. https://www.medrxiv.org/content/10.64898/2026.07.14.26357983v1. *medRxiv* (2026)."
 date: 07/16/2026
 image: /img/tools/AsthmaPTRS_fig1.png
 ---
